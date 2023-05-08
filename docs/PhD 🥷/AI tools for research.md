@@ -1,4 +1,7 @@
-Many AI assistants have been developed recently, for the literature review, these tools can be useful:
+# AI Tools for Research
+Many AI assistants have been developed recently, these tools can be useful:
+
+## Litreture Review:
 
 - [Connected Papers](https://www.connectedpapers.com)
 
