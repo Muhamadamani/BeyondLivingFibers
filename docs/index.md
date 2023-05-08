@@ -1,11 +1,2 @@
-# Obsidian Notes
-
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+# Beyond the Living Fibers
+Welcome to my website, where I share my findings and insights as a PhD researcher in aerospace engineering at TU Delft. I'm passionate about living composites, a field that explores the use of living organisms to create innovative and sustainable materials for a better future.  Whether you're a fellow researcher, a student, or simply curious about the future of materials science, I hope you find something of interest here.
